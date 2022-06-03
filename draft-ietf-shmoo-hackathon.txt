@@ -4,8 +4,8 @@
 
 shmoo                                                           C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              8 April 2022
-Expires: 10 October 2022
+Intended status: Informational                               3 June 2022
+Expires: 5 December 2022
 
 
                        Running an IETF Hackathon
@@ -24,9 +24,10 @@ Discussion Venues
 
    This note is to be removed before publishing as an RFC.
 
-   Discussion of this document takes place on the Stay Home Meet Only
-   Online Working Group mailing list (manycouches@ietf.org), which is
-   archived at https://mailarchive.ietf.org/arch/browse/manycouches/.
+   Discussion of this document takes place on the Stay Home Meet
+   Occasionally Online Working Group mailing list
+   (manycouches@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/manycouches/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/eckelcu/draft-ietf-shmoo-hackathon.
@@ -46,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 October 2022.
+   This Internet-Draft will expire on 5 December 2022.
 
 Copyright Notice
 
@@ -78,7 +79,7 @@ Table of Contents
        3.2.2.  Remote Participation Expenses
    4.  Project Presentations
      4.1.  Project Pitches
-     4.2.  Results Summaries
+     4.2.  Project Results Presentations
        4.2.1.  Templates
      4.3.  Upload to GitHub
      4.4.  Presenting in Person
@@ -215,24 +216,24 @@ Table of Contents
 
    The typical agenda is as follows:
 
-   Saturday before IETF meeting week
-       08:30: Room open for setup by project champions
-       09:00: Room open for all - Pastries and coffee provided
-       09:30: Hackathon kickoff
-       09:45: Form Teams
-       12:30: Lunch provided
-       15:30: Afternoon break - Snacks provided
-       19:00: Dinner provided
-       22:00: Room closes
+ Saturday before IETF meeting week
+     08:30: Room open for setup by project champions
+     09:00: Room open for all - Pastries and coffee provided
+     09:30: Hackathon kickoff
+     09:45: Form Teams
+     12:30: Lunch provided
+     15:30: Afternoon break - Snacks provided
+     19:00: Dinner provided
+     22:00: Room closes
 
-   Sunday before IETF meeting week
-       08:30: Room opens - Pastries and coffee provided
-       12:30: Lunch provided
-       13:30: Hacking stops, prepare brief presentation of project
-       14:00: Project presentations to other participants
-       15:45: Closing remarks and opportunities for next time
-       16:00: Hackathon ends
-       17:00: Tear down complete
+ Sunday before IETF meeting week
+     08:30: Room opens - Pastries and coffee provided
+     12:30: Lunch provided
+     13:30: Hacking stops, prepare brief presentation of project results
+     14:00: Project results presentations to other participants
+     15:45: Closing remarks and opportunities for next time
+     16:00: Hackathon ends
+     17:00: Tear down complete
 
    The time on Saturday morning provides team champions time to setup
    and participants time to socialize and learn more about projects and
@@ -354,8 +355,8 @@ Table of Contents
    hard to say how many people actually participated and for how long,
    but many projects were able to get substantial work done.  For the
    closing, 10 teams produced and shared presentations summarizing their
-   findings and achievements.  All presentations as well as the agenda
-   and a recording of the closing session are available via the
+   findings and achievements.  All results presentations as well as the
+   agenda and a recording of the closing session are available via the
    [IETF-108-HACKATHON-WIKI].  This level of participation was strong
    enough to be considered a success and justify including the Hackathon
    in future online only IETF meetings.
@@ -512,12 +513,13 @@ Table of Contents
    sharing the results and findings with the IETF community.
 
    For the first few Hackathons, we had two very distinct types of
-   presentations,
+   presentations:
 
-   1.  Presentation that served as project pitches at the start of the
+   1.  Presentations that served as project pitches at the start of the
        Hackathon
 
-   2.  Presentations that summarize results at the end of the Hackathon.
+   2.  Presentations that summarized results at the end of the
+       Hackathon.
 
 4.1.  Project Pitches
 
@@ -535,25 +537,26 @@ Table of Contents
    this type of information in advance via the Meeting Wiki
    (Section 5.4) instead.
 
-4.2.  Results Summaries
+4.2.  Project Results Presentations
 
-   The results summaries are brief presentation by each team of what
-   problem they tried to solve, what they achieved, and highlights that
-   include lessons learned, feedback to associated working groups, and
-   collaboration with open source communities and other standards
-   organizations.  They also highlight individuals who are participating
-   in their first IETF Hackathon or first IETF event to facilitate their
-   introduction into the IETF community.  The production and
-   presentation of results summaries is optional.  Fortunately, despite
-   the lack of awards and prizes, most teams participate.
+   The project results presentations were brief presentations by each
+   team of what problem they tried to solve, what they achieved, and
+   highlights that included lessons learned, feedback to associated
+   working groups, and collaboration with open source communities and
+   other standards organizations.  They also highlight individuals who
+   participated in their first IETF Hackathon or first IETF event, which
+   helps facilitate the introduction of such individuals to the IETF
+   community.  The production and presentation of results summaries is
+   optional.  Fortunately, despite the lack of awards and prizes, most
+   teams participate.
 
-   As with the project pitches, results summaries can become unwieldy as
-   the number of projects increases.  With this in mind, the total time
-   for all results summaries is limited to 2 hours.  The maximum
-   duration of each presentation is calculated based on the number teams
-   that have indicated the desire to present.  This maximum is strictly
-   enforced to ensure all teams have the opportunity to present their
-   results.  Maximum durations of 3-5 minutes are typical.
+   As with the project pitches, project results presentations can become
+   unwieldy as the number of projects increases.  With this in mind, the
+   total time for all results presentations is limited to 2 hours.  The
+   maximum duration of each presentation is calculated based on the
+   number teams that indicate the desire to present.  This maximum is
+   strictly enforced to ensure all teams have the opportunity to present
+   their results.  Maximum durations of 3-5 minutes are typical.
 
 4.2.1.  Templates
 
@@ -575,10 +578,11 @@ Table of Contents
 
 4.3.  Upload to GitHub
 
-   All presentation are uploaded to the GitHub repo created the
-   Hackathon, e.g., [RESULTS-PRESENTATIONS].  The contents of this repo
-   are used as the source for all project presentations at the end of
-   the Hackathon and remain as a reference after the Hackathon.
+   All project results presentations are uploaded to the GitHub repo
+   created the Hackathon, e.g., [RESULTS-PRESENTATIONS].  The contents
+   of this repo are used as the source for all results presentations at
+   the end of the Hackathon and remain as a reference after the
+   Hackathon.
 
    One must be a member of the [IETF-HACKATHON-GITHUB] organization to
    upload a new presentation or update/replace an existing presentation.
@@ -753,10 +757,13 @@ Table of Contents
 5.5.  Email List
 
    The Hackathon email list, [EMAIL-LIST], is used for all email
-   communication and announcement related to the Hackathon.  All
-   registrants and given the option to subscribe to the list.  Anyone
+   communication and announcements related to the Hackathon.  All
+   registrants are given the option to subscribe to the list.  Anyone
    interested in staying up to date on the Hackathon is able to
-   subscribe at any time.
+   subscribe at any time.  Once subscribed, anyone can send and respond
+   to emails to the list.  The same list is used for each Hackathon.
+   Anyone wishing to receive email for a specific Hackathon only can
+   unsubscribe after that Hackathon has concluded.
 
 5.5.1.  Hackathon Chairs Email Alias
 
@@ -776,8 +783,8 @@ Table of Contents
 
    A repository is created and maintained by the Chairs for each
    Hackathon, e.g., [RESULTS-PRESENTATIONS].  This repo is for
-   participants to upload project presentations.  The contents of this
-   repo are used as the source for all project presentations at the end
+   participants to upload project results presentations.  The contents
+   of this repo are used as the source for all presentations at the end
    of the Hackathon and remain as a reference after the Hackathon.
 
 5.7.  Meetecho
@@ -788,12 +795,12 @@ Table of Contents
    *  allows participants to join Hackathon sessions in person or
       remotely
 
-   *  validate registration of participants at time of joining Hackathon
-      sessions
+   *  validates registration of participants at time of joining
+      Hackathon sessions
 
-   *  enable remote presentations of project results
+   *  enables remote presenters of project results presentations
 
-   *  capture recording of Hackathon sessions
+   *  captures recording of Hackathon kickoff and closing
 
 5.8.  Network
 
@@ -1026,8 +1033,8 @@ Table of Contents
 
 7.6.  Judges
 
-   The first several Hackathon involved judges who listened to summary
-   presentations by teams at the closing of each Hackathon and
+   The first several Hackathon involved judges who listened to project
+   results presentations by teams at the closing of each Hackathon and
    identified winning teams for an arbitrary number of project
    categories.  Prizes were made available to members of winning teams.
    This was done as an incentive to participate in the Hackathon and
@@ -1234,8 +1241,8 @@ Acknowledgments
    These have evolved over time and are used to run each Hackathon.
 
    Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, Dhruv
-   Dhody, and Karl Auerbach also provided significant contributions to
-   the Hackathon and to this document.
+   Dhody, Karl Auerbach, and Mallory Knodel also provided significant
+   contributions to the Hackathon and to this document.
 
 Author's Address
 
